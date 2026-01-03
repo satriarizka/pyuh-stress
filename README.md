@@ -1,1 +1,1 @@
-"# pyuh-stress" 
+# pyuh-stress
